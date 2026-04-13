@@ -1,0 +1,12 @@
+{
+  "name": "openclaw-webchat-guard",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin that blocks Discord tools in CTRL webchat sessions",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForkTheGhost/openclaw-webchat-guard.git"
+  }
+}

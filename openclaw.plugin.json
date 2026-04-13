@@ -1,0 +1,6 @@
+{
+  "name": "webchat-guard",
+  "version": "1.0.0",
+  "description": "Blocks Discord tools in CTRL webchat sessions so agents respond with text instead of tool calls",
+  "entry": "index.js"
+}
